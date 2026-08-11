@@ -51,12 +51,14 @@ B.S. in Information and Computing Science, 2019–2023
 
 # 🏅 Honors and Awards
 
+### 2025
+- **Third Prize**, The 22nd "Huawei Cup" China Graduate Mathematical Contest in Modeling.  
+
 ### 2022
 - **National Inspirational Scholarship**, Ministry of Education of China.
 - **Third Prize**, Liaoning Provincial "Shuo Ri Cup" Undergraduate Computer Design Competition.
 
 ### 2021
-- **Second Prize**, China Undergraduate Mathematical Contest in Modeling (CUMCM).
 - **Third Prize**, 14th Chinese Collegiate Computing Competition.
 - **Third Prize**, 11th MathorCup University Mathematical Modeling Challenge.
 - **First Prize**, Liaoning Provincial "Shuo Ri Cup" Undergraduate Computer Design Competition.
