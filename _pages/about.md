@@ -53,9 +53,7 @@ B.S. in Information and Computing Science, 2019–2023
 
 ### 2022
 - **National Inspirational Scholarship**, Ministry of Education of China.
-- **Third Prize**, 13th Lanqiao Cup National Software and Information Technology Professionals Competition (Provincial Division).
-- **First Prize**, Liaoning Provincial Undergraduate Computer Design Competition.
-- **First Prize**, Liaoning Technical University Computer Design Competition.
+- **Third Prize**, Liaoning Provincial "Shuo Ri Cup" Undergraduate Computer Design Competition.
 
 ### 2021
 - **Second Prize**, China Undergraduate Mathematical Contest in Modeling (CUMCM).
@@ -63,7 +61,7 @@ B.S. in Information and Computing Science, 2019–2023
 - **Third Prize**, 11th MathorCup University Mathematical Modeling Challenge.
 - **First Prize**, Liaoning Provincial "Shuo Ri Cup" Undergraduate Computer Design Competition.
 - **First Prize**, Liaoning Provincial Agricultural Economic Modeling Competition.
-- **First Prize**, 12th Lanqiao Cup National Software and Information Technology Professionals Competition (Provincial Division).
+
 
 # 🏭 Internships
 
