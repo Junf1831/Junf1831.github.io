@@ -22,11 +22,9 @@ My research interests include **Machine Learning**, **Reinforcement Learning**, 
 
 # 🎓 Education
 
-**Liaoning Technical University**  
-M.S. in Mathematics, 2025–Present
+**Liaoning Technical University**，  M.S. in Mathematics, 2025–Present
 
-**Liaoning Technical University**  
-B.S. in Information and Computing Science, 2019–2023
+**Liaoning Technical University**，  B.S. in Information and Computing Science, 2019–2023
 
 
 # 📝 Publications
