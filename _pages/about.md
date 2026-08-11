@@ -27,6 +27,11 @@ My research interests include **Machine Learning**, **Reinforcement Learning**, 
 **Liaoning Technical University**，  B.S. in Information and Computing Science, 2019–2023
 
 
+# 🏭 Internships
+
+**Beijing CONCO Technology Co., Ltd.**, Computer Vision Algorithm Engineer, 2023.7~2024.1
+
+
 # 📝 Papers
 
 ### [1] Bytesized32refactored: Towards an extensible interactive text games corpus for llm world modeling and evaluation
@@ -64,6 +69,4 @@ My research interests include **Machine Learning**, **Reinforcement Learning**, 
 - **First Prize**, Liaoning Provincial Agricultural Economic Modeling Competition.
 
 
-# 🏭 Internships
 
-**Beijing CONCO Technology Co., Ltd.**, Computer Vision Algorithm Engineer, 2023.7~2024.1
