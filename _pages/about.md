@@ -27,7 +27,7 @@ My research interests include **Machine Learning**, **Reinforcement Learning**, 
 **Liaoning Technical University**，  B.S. in Information and Computing Science, 2019–2023
 
 
-# 📝 Publications
+# 📝 Papers
 
 ### [1] Bytesized32refactored: Towards an extensible interactive text games corpus for llm world modeling and evaluation
 
