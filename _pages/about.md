@@ -34,7 +34,7 @@ B.S. in Information and Computing Science, 2019–2023
 
 **Junfeng Sun**, Author Two, Author Three.  
 *Conference / Journal Name*, 2026.  
-[[Paper](链接)] [[Code](链接)]
+[[Paper](https://arxiv.org/abs/2509.23979)] [[Code](https://github.com/isle-dev/BYTESIZED32-Refactored)]
 
 ### [2] Another Paper
 
