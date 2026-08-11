@@ -50,15 +50,16 @@ My research interests include **Machine Learning**, **Reinforcement Learning**, 
 # 🏅 Honors and Awards
 
 ### 2025
-- **Third Prize**, The 22nd "Huawei Cup" China Graduate Mathematical Contest in Modeling.  
+- **First Prize**, "Huawei Cup" China Graduate Mathematical Contest in Modeling.  
+- **Third Prize**, MathorCup Graduate Mathematical Modeling Challenge。  
 
 ### 2022
 - **National Inspirational Scholarship**, Ministry of Education of China.
 - **Third Prize**, Liaoning Provincial "Shuo Ri Cup" Undergraduate Computer Design Competition.
 
 ### 2021
-- **Third Prize**, 14th Chinese Collegiate Computing Competition.
-- **Third Prize**, 11th MathorCup University Mathematical Modeling Challenge.
+- **Third Prize**, Chinese Collegiate Computing Competition.
+- **Third Prize**, MathorCup University Mathematical Modeling Challenge.
 - **First Prize**, Liaoning Provincial "Shuo Ri Cup" Undergraduate Computer Design Competition.
 - **First Prize**, Liaoning Provincial Agricultural Economic Modeling Competition.
 
