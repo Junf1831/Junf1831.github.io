@@ -30,10 +30,10 @@ B.S. in Information and Computing Science, 2019–2023
 
 # 📝 Publications
 
-### [1] Paper Title
+### [1] Bytesized32refactored: Towards an extensible interactive text games corpus for llm world modeling and evaluation
 
-**Junfeng Sun**, Author Two, Author Three.  
-*Conference / Journal Name*, 2026.  
+**Junfeng Sun**, Author Three.  
+*When Language Meets Games Workshop, EMNLP 2025*.  
 [[Paper](https://arxiv.org/abs/2509.23979)] [[Code](https://github.com/isle-dev/BYTESIZED32-Refactored)]
 
 ### [2] Another Paper
