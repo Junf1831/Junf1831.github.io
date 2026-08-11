@@ -18,16 +18,15 @@ My research interests include **Machine Learning**, **Reinforcement Learning**, 
 
 # 🔥 News
 
-- **[Aug. 2026]** Started ...
-- **[2025]** Our paper ... was accepted by ...
+
 
 # 🎓 Education
 
 **Liaoning Technical University**  
 M.S. in Mathematics, 2023–Present
 
-**XXX University**  
-B.S. in XXX, 2019–2023
+**Liaoning Technical University**  
+B.S. in Information and Computing Science, 2019–2023
 
 # 📝 Publications
 
