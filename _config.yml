@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Junfeng Sun"
 description              : "This is the academic homepage of Sun."
-repository               : "Junf1831/Junfeng1831.github.io"
+repository               : "Junf1831/Junf1831.github.io"
 google_scholar_stats_use_cdn : false
 
 # google analytics
@@ -27,7 +27,7 @@ author:
   location         : "Fuxin, China"
   employer         : 
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=SCHOLAR_ID&user=1fplA0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=1fplA0AAAAAJ"
   email            : "junf1831@outlook.com"
   researchgate     : # "https://www.researchgate.net/profile/Jian-Tang-53"
   uri              : 
