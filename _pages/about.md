@@ -46,14 +46,25 @@ B.S. in Information and Computing Science, 2019–2023
 ### [3] Research on geometric figure classification algorithm based on Deep Learning
 
 **Ruiyang Wang**, **Haonan Wang**, **Junfeng Sun**, **Mingjia Zhao**, **Meng Liu**  
-*Scientific Journal of Intelligent Systems Research, 2022*.  
+*Scientific Journal of Intelligent Systems Research(IEEE), 2022*.  
 [[Paper](https://arxiv.org/abs/2404.16561)] 
 
 # 🏅 Honors and Awards
 
-- First Prize, XXX Competition, 2024
-- Outstanding Graduate Student, 2023
+### 2022
+- **National Inspirational Scholarship**, Ministry of Education of China.
+- **Third Prize**, 13th Lanqiao Cup National Software and Information Technology Professionals Competition (Provincial Division).
+- **First Prize**, Liaoning Provincial Undergraduate Computer Design Competition.
+- **First Prize**, Liaoning Technical University Computer Design Competition.
+
+### 2021
+- **Second Prize**, China Undergraduate Mathematical Contest in Modeling (CUMCM).
+- **Third Prize**, 14th Chinese Collegiate Computing Competition.
+- **Third Prize**, 11th MathorCup University Mathematical Modeling Challenge.
+- **First Prize**, Liaoning Provincial "Shuo Ri Cup" Undergraduate Computer Design Competition.
+- **First Prize**, Liaoning Provincial Agricultural Economic Modeling Competition.
+- **First Prize**, 12th Lanqiao Cup National Software and Information Technology Professionals Competition (Provincial Division).
 
 # 🏭 Internships
 
-**Beijing CONCO Technology Co., Ltd.** **[Computer Vision Algorithm Engineer]**(2023.7~2024.1)
+**Beijing CONCO Technology Co., Ltd.**, Computer Vision Algorithm Engineer, 2023.7~2024.1
