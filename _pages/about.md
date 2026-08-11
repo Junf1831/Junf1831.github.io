@@ -3,39 +3,56 @@ permalink: /
 title: ""
 excerpt: ""
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
-
 <span class='anchor' id='about-me'></span>
 
-I am currently a M.S. majoring in mathematics at Liaoning Technical University.
+# 👋 About Me
 
-# 🎓 Educations 
+I am currently an M.S. student in Mathematics at Liaoning Technical University.
 
- 
+My research interests include **Machine Learning**, **Reinforcement Learning**, and **Large Language Models**.
 
-# 📝 Publications 
+# 🔥 News
 
-### 
+- **[Aug. 2026]** Started ...
+- **[2025]** Our paper ... was accepted by ...
 
+# 🎓 Education
 
+**Liaoning Technical University**  
+M.S. in Mathematics, 2023–Present
+
+**XXX University**  
+B.S. in XXX, 2019–2023
+
+# 📝 Publications
+
+### [1] Paper Title
+
+**Junfeng Sun**, Author Two, Author Three.  
+*Conference / Journal Name*, 2026.  
+[[Paper](链接)] [[Code](链接)]
+
+### [2] Another Paper
+
+Author One, **Junfeng Sun**, Author Three.  
+*Journal Name*, 2025.
 
 # 🏅 Honors and Awards
 
-
+- First Prize, XXX Competition, 2024
+- Outstanding Graduate Student, 2023
 
 # 💬 Conferences
 
-
+- XXX Conference, 2025
+- XXX Workshop, 2024
 
 # 🏭 Internships
 
+**Research Intern**, XXX Lab  
+2025
