@@ -29,6 +29,9 @@ My research interests include **Machine Learning**, **Reinforcement Learning**, 
 
 # 🏭 Working experience
 
+**SpringTengAI**, Co-creator and collaborator， 2025~Present
+
+
 **Beijing CONCO Technology Co., Ltd.**, Computer Vision Algorithm Engineer, 2023.7~2024.1
 
 I worked on AI-driven computer vision tasks, including object detection, image recognition, image segmentation, and embedded system deployment, covering the end-to-end development process from model design to real-world deployment.
