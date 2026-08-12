@@ -1,4 +1,4 @@
----
+<img width="1712" height="237" alt="image" src="https://github.com/user-attachments/assets/8da14345-8fc0-42dc-8309-e2a3755a193b" />---
 permalink: /
 title: ""
 excerpt: ""
@@ -31,6 +31,8 @@ My research interests include **Machine Learning**, **Reinforcement Learning**, 
 
 **Beijing CONCO Technology Co., Ltd.**, Computer Vision Algorithm Engineer, 2023.7~2024.1
 
+I worked on AI-driven computer vision tasks, including object detection, image recognition, image segmentation, and embedded system deployment, covering the end-to-end development process from model design to real-world deployment.
+
 
 # 📝 Papers
 
@@ -47,7 +49,12 @@ My research interests include **Machine Learning**, **Reinforcement Learning**, 
 *Scientific Journal of Intelligent Systems Research(IEEE), 2022*.  
 [[Paper](https://arxiv.org/abs/2404.16561)] 
 
-### Ongoing Project
+### [Ongoing Project] Any-Step Dynamics Models for Long-Horizon Goal Relabeling in Goal-Conditioned Reinforcement Learning
+This project studies model-based goal relabeling for sparse-reward goal-conditioned reinforcement learning (GCRL). Existing relabeling methods often rely on future states actually observed in trajectories, which may bias learning toward locally reachable goals and limit their effectiveness in long-horizon tasks.
+
+To address this issue, we explore Any-Step Dynamics Models (ADM), which directly predict future states at arbitrary time horizons. These model-imagined future states are then used as relabeled goals, aiming to improve the stability and effectiveness of future-goal generation.
+
+We are currently evaluating this method on long-horizon reasoning benchmarks such as PointMaze, AntMaze, and HumanoidMaze, with a focus on whether ADM-based relabeling can improve long-horizon goal reachability, trajectory stitching, and learning under sparse rewards.
 
 
 # 🏅 Honors and Awards
